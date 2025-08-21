@@ -1,4 +1,5 @@
 # plantuml_web
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/2niuhe/plantuml_web)](https://archestra.ai/mcp-catalog/2niuhe__plantuml_web)
 Using nicegui as a PlantUML frontend, you can deploy PlantUML on an intranet.
 
 It's a nicegui demo project with an added MCP (Model Context Protocol) server that exposes PlantUML functionality to AI assistants.
